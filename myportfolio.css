@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+}
+header{
+    background-color:darkslategray;
+    color:white;
+    padding:20px;
+}
+nav ul li{
+    display:inline;
+}
+nav ul li a{
+    padding:20px;
+    color:chocolate;
+    font-size:20px;
+    text-decoration:none;
+}
+#Home img{
+    heigth:200px;
+    width:200px;
+    border-radius: 80%;
+    
+}
+#Bio p{
+    margin-right: 180px;
+    margin-left: 180px;
+}
+#PortFolio{
+    background-color:burlywood;
+    border-style: solid;
+    border-color:darkslategrey;
+    padding:20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+li
+{
+    display:inline;
+    padding:10px;
+}
+footer{
+    border-style: groove;
+    border-color:lightblue;
+    background-color: black;
+    color:azure;
+    padding:30px;
+}
